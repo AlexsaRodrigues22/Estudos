@@ -13,4 +13,10 @@
 | Issues               | Realizado |
 | Pull Requests        | Realizado |
 
+---------------------
+
+## Imagem de alguns comandos markdown
+
+![Imagem dos comandos](image.png)
+
 ### Objetivo concluído
